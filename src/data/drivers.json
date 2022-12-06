@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "637cc2b755fa97a44bf83930"
+  },
+  "firstName": "Anthony",
+  "lastName": "Mayer",
+  "phoneNumber": "09999999999",
+  "latitude": 16.41732,
+  "longitude": 120.6146
+},{
+  "_id": {
+    "$oid": "637cc2fc55fa97a44bf83932"
+  },
+  "firstName": "Markus",
+  "lastName": "Foster",
+  "phoneNumber": "09999999999",
+  "latitude": 16.41606,
+  "longitude": 120.61233
+},{
+  "_id": {
+    "$oid": "637cc36955fa97a44bf83934"
+  },
+  "firstName": "Mike",
+  "lastName": "Reyes",
+  "phoneNumber": "09999999999",
+  "latitude": 16.41569,
+  "longitude": 120.6151
+},{
+  "_id": {
+    "$oid": "637cc3bf55fa97a44bf83936"
+  },
+  "firstName": "Lauro",
+  "lastName": "Reyes",
+  "phoneNumber": "09999999999",
+  "latitude": 16.209766,
+  "longitude": 120.87083
+},{
+  "_id": {
+    "$oid": "637cc47a55fa97a44bf83938"
+  },
+  "firstName": "Amaro",
+  "lastName": "Sato",
+  "phoneNumber": "09999999999",
+  "latitude": 16.97626,
+  "longitude": 120.9412
+}]

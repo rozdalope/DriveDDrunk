@@ -1,0 +1,76 @@
+.hero-subtitle p {
+    margin-bottom: 10;
+    color: #12722a;
+    font-size: larger;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.homepage-container {
+    display: flex;
+    flex-direction: column;
+    padding: 35px 20px 20px;
+    align-items: center;
+}
+
+.service-headline h1 {
+    margin-bottom: 5px;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-section-headline {
+    margin-top: 0;
+    line-height: 1.2;
+}
+
+.hero-span {
+    color: #12722a;
+}
+
+.button-container {
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-section-text {
+    /* text-transform: uppercase; */
+    font-weight: 400;
+    font-size: 17px;
+    color: #898989;
+}
+
+.buttons {
+    display: flex;
+    padding: 10px;
+    gap: 15px;
+    margin: 0 0 10px;
+}
+
+.btn-icon {
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 19px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    box-shadow: 2px 2px 5px #5f6d6d93;
+
+}
+
+.btn-login {
+    background-color: #10363b;
+    color: #d3d3d3;
+}
+
+.hero-logo {
+    width: 30vh;
+}

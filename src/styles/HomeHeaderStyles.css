@@ -1,0 +1,27 @@
+.nav-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    background-color: #10363b;
+}
+
+.nav-header-mid a {
+
+    color: #d3d3d3;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.homeHeader-logo {
+    display: flex;
+    width: 275px;
+}
+
+.nav-header-mid {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}

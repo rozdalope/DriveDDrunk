@@ -1,0 +1,17 @@
+.overlay {
+    z-index: 2;
+}
+
+.btn-book-driver {
+    width: 80%;
+    background: #10363b;
+    border-radius: 5px;
+}
+
+div h4 {
+    margin-top: 0px;
+}
+
+.icon {
+    width: 50px;
+}

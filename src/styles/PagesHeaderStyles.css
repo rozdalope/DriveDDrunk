@@ -1,0 +1,30 @@
+.nav-header {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    align-items: center;
+    height: 60px;
+    width: 100%;
+    background-color: #10363b;
+}
+
+.nav-header-left a {
+    color: #d3d3d3;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.nav-header-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pagesHeader-logo {
+    width: 125px;
+}
+
+.navHeader-right-icon {
+    color: #d3d3d3;
+    width: 50px;
+    height: 25px;
+}
